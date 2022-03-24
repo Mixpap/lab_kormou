@@ -15,13 +15,12 @@ function lab(){
     fi
     jupyter notebook ~/lab_kormou_tmp_$1/    
 }
-#export -f lab
 function update_lab() {
     cd ~/lab_kormou/
     git reset --hard HEAD
     git pull
 }
-#export -f update_lab
+
 function clean_lab() {
     read -r -p "This will clean all lab_kormou_tmp_* folders, ARE YOU SURE? [y/N] " response
     if [[ "$response" =~ ^(yes|y)$ ]]
@@ -30,5 +29,4 @@ function clean_lab() {
     fi
 }
 ' >> ~/.bashrc
-#export -f clean_lab
 bash
