@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-7" />
+<title>Φάσματα του NGC 6181 </title>
+<style type="text/css">
+<!--
+.style1 {font-size: large}
+.style3 {font-size: small}
+-->
+</style>
+</head>
+
+<body>
+<table width="100%" border="1" cellpadding="2">
+  <tr>
+    <td width="44%"><table width="100%" border="0" cellpadding="0">
+      <tr>
+        <td width="29%"><p align="center"><img src="gifs/NGC6181T.gif"
+      alt="ngc6181 t" width="100" height="100" border="2" /></p>
+          <p align="right"><span class="style1"><a href="galaxies.html" target="_parent"><img src="gifs/left_r_arrow.gif" alt="larrow" width="50" height="20" />Back </a></span></p></td>
+        <td width="71%"><div align="center"><img src="gifs/NGC6181_whole.gif" alt="ngc 1357 whole spectrum" width="256" height="200" border="2" /></div></td>
+      </tr>
+    </table>      </td>
+    <td width="56%" valign="top"><p class="style1">NGC 6181 <span
+      class="style3">Ορθή αναφορά = 3:33.2, Απόκλιση = -13:40
+      (2000.0) </span></p>
+      <ul>
+        <li>Ξεκινήστε με την μέτρηση των μηκών κύματος των γραμμών απορρόφησης CaII Η και Κ. Tοποθετείστε τον κέρσορα στο χαμηλότερο σημείο της κάθε γραμμής και πιέστε το αριστερό κουμπί του ποντικιού. Καταγράψτε  <strong>το μήκος κύματος </strong>.</li>
+        <li> Εν συνεχεία, βρείτε το μήκος κύματος της γραμμής εκπομπής H-alpha, τοποθετώντας τον κέρσορα στο υψηλότερο σημείο της γραμμής εκπομπής.
+         Καταγράψτε  <strong>το μήκος κύματος</strong> στον πίνακα τιμών.</li> 
+        <li>Τέλος, υπολογίστε την ερυθρομετατόπιση  (<b>Z</b>)
+      για τις 3 γραμμές. Εκτιμήστε το σφάλμα σας, βεβαιωθείτε ότι οι τρεις τιμές είναι συγκρίσιμες (εντός του σφάλματος) και βρείτε την μέση τιμή του Z και το αντίστοιχο σφάλμα. </li>
+    </ul></td>
+  </tr>
+</table>
+</body>
+</html>
